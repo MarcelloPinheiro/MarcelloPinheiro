@@ -1,4 +1,4 @@
-### Hi there 👋
+### Marcelo Pinheiro 👋
 
 <!--
 **MarcelloPinheiro/MarcelloPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> ⚡ Estudante de Matemática que está ingressando no mercado de tecnologia, um grande de admirador de Ciência de Dados!
+🔭 Estou estudando no momento: Python, R, Machine Learning e Javascript.
