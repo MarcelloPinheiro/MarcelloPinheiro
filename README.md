@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> ⚡ Estudante de Matemática que está ingressando no mercado de tecnologia, um grande de admirador de Ciência de Dados!
 🔭 Estou estudando no momento: Python, R, Machine Learning e Javascript.
+
+### Mídias Socias
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marcelo-pinheiro-ba98201a1/)](https://www.linkedin.com/in/marcelo-pinheiro-ba98201a1/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pinheiromarcelof22@gmail.com)](mailto:pinheiromarcelof22@gmail.com)
+
