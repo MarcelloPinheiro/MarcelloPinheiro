@@ -1,5 +1,3 @@
-### Marcelo Pinheiro 👋
-
 <!--
 **MarcelloPinheiro/MarcelloPinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-# Hey, I'm Marcelo Pinheiro! 👋  
+## Hey, I'm Marcelo Pinheiro! 👋  
 
 - 🎲 I’m Statistics student at UFMG.
 - 🔭 I’m currently learning R and Python.
