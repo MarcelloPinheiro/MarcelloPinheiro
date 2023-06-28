@@ -13,9 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 🎲 I’m Statistics student at UFMG.
---> 🔭 I’m currently learning R and Python.
---> ⚡ I’m an intern in an insurance company which i work in a statistical and actuarial area.
+--> 
+
+# Hey, I'm Marcelo Pinheiro! 👋  
+
+- 🎲 I’m Statistics student at UFMG.
+- 🔭 I’m currently learning R and Python.
+- ⚡ I’m an intern in an insurance company which i work with statistical, actuarial and data science.	    
  
 
 ### Social media
