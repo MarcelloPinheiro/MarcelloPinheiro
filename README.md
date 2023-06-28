@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> ⚡ Estudante de Estatística que está ingressando no mercado de tecnologia, um grande admirador de Ciência de Dados!
-🔭 Estou estudando no momento: Python, R, Machine Learning e Javascript.
+🔭 Estou estudando no momento: Python, R e Machine Learning.
 
 ### Mídias Socias
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marcelo-pinheiro-ba98201a1/)](https://www.linkedin.com/in/marcelo-pinheiro-ba98201a1/)
