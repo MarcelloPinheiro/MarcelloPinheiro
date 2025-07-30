@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## Hey, I'm Marcelo Pinheiro! 👋  
+## Hey, I'm Marcelo Pinheiro!
 
-- 🎲 I’m Statistics student at UFMG.
-- 🔭 I’m currently learning R and Python.
-- ⚡ I’m an intern in an insurance company which i work with statistical, actuarial and data science.	    
- 
+🎓 B.Sc. in Statistics @ UFMG  
+💻 Python & R for Data Science and Engineering  
+📈 Focused on statistical modeling, data pipelines, and analytics  
+🌎 Building data-driven solutions
 
 ### Social media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/marcelo-pinheiro-ba98201a1/)](https://www.linkedin.com/in/marcelo-pinheiro-ba98201a1/)
